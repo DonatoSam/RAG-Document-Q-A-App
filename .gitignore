@@ -1,0 +1,20 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Application specific
+faiss_index/
+*.pdf
+temp_*/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db

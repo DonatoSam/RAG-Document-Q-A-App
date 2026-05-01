@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python -m py_compile \"F:/Project/RAG Document Q&A App/app\\.py\" \"F:/Project/RAG Document Q&A App/groq_embeddings\\.py\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
